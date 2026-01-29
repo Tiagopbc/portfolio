@@ -16,7 +16,7 @@ export function Footer() {
                             Construindo o futuro, uma linha de código por vez.
                         </p>
                     </div>
-
+                    {/* Social Icons */}
                     <div className="flex space-x-6">
                         <a
                             href={contact.social.github}
